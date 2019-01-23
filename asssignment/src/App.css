@@ -1,0 +1,9 @@
+.app {
+  text-align: center;
+  display: flex;
+}
+
+img{
+  height: 400px;
+  width: auto;
+}
